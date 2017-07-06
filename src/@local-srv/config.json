@@ -1,7 +1,7 @@
 {
   "host":"http://localhost:8080",
   "appTitle":"CRM",
-  "defaultRoute": "/",
+  "defaultRoute": "/wize/page/companies",
   "auth": false,
   "auth0Options":{
     "redirectUrl":"http://localhost:4201",
