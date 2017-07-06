@@ -1,4 +1,1 @@
-/**
- * App
- */
-export * from './app.module';
+export { RootModule } from './root/root.module';
